@@ -39,7 +39,7 @@
 ```shell
 git clone https://github.com/witt-bit/fcitx5-theme-mint.git
 
-# 深色
+# 安装
 ./install.sh
 ```
 
